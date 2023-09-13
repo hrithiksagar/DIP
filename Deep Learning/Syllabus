@@ -1,0 +1,9 @@
+Deep Learning Syllabus:
+CO-1: Perceptron, convergence proof. Feedforward neural network, Representation power of feedforward neural network(Universal Approximation Theorem, limitations of shallow networks. [4 Lectures]
+CO-2: Back propagation, loss surfaces, learning rates, optimization for deep networks: gradient descent (GD), momentum based GD, Nesterov accelerated GD, stochastic GD, AdaGrad, RMSProp, Adam. [3 Lectures]
+CO-3: Greedy layerwise pre-training, better activation functions, better weight initialization methods, batch normalization [2 Lecture]
+CO-4: Bias variance tradeoff: overfitting and under-fitting. L2 regularization, early stopping, dataset augmentation, parameter sharing and tying, injecting noise at the input, ensemble methods, drop out. [3 Lectures]
+CO-5: Auto-encoders and relation to PCA, regularization in auto-encoders, denoising auto-encoders, sparse auto-encoders, contractive auto-encoders, variational auto-encoders (VAEs), mutual information and the information bottleneck. Word2vec and its relationship to latent semantic indexing (LSI). Unsupervised Learning, Restricted Boltzmann Machines (RBMs), Contrastive divergence for RBMs. Generative Adversarial Networks (GANs), Diffusion Models. [ 5 Lectures]
+CO-6: Convolutional neural networks (CNNs), backpropagation in CNNs, LeNet, AlexNet, Inception, VGG, GoogLeNet, ResNet. [2 Lectures]
+CO-7: Recurrent neural networks, backpropagation through time (BPTT), vanishing and exploding gradients, truncated BPTT, stability, bidirectional RNNs, gated recurrent units (GRUs), long short-term memory (LSTM), solving the vanishing gradient problem with LSTMs. [3 Lectures]
+CO-8: Encoder-Decoder Models, Attention Mechanism, Hierarchical Attention, Transformers, Graph Neural Networks. [4 Lectures]
